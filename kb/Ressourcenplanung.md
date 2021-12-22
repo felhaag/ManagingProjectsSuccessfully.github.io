@@ -14,6 +14,7 @@ Erfolgreiches [Projektmanagement](Projektmanagement.md) resultiert aus einer eff
 
 # Bereiche der [Ressourcenplanung](Ressourcenplanung.md) und deren Herausforderungen (Skill-Management)
 
+
 ![Abbildung](Ressourcenplanung/Abbildung1.png)[Abbildung 1: Die drei Ebenen und beteiligten Rollen bei der unternehmensweiten Ressourcenplanung]
 
 Kompetenz- bzw. Skill-Management ist ein effektives Instrument der [Ressourcenplanung](Ressourcenplanung.md), mit dem detaillierte Fähigkeiten und deren Ausprägungen benannt und somit Ressourcen automatisch zugeordnet werden können. 
